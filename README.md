@@ -1,3 +1,3 @@
 # CamperNews
-App idea from -freecodecamp-- utilize freecodecamp's api and display 'trending' news stories 
-http://raheelakhan1172.github.io/CamperNews/
+This project is deprecated since the original API endpoint from freecodecamp  has been deleted
+
